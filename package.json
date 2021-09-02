@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/glenjamin/transit-immutable-js",
   "peerDependencies": {
-    "immutable": ">= 3",
-    "transit-js": ">= 0.8"
+    "immutable": "*",
+    "transit-js": "*"
   },
   "devDependencies": {
     "chai": "^2.3.0",
