@@ -1,5 +1,5 @@
 {
-  "name": "transit-immutable-js",
+  "name": "xcraft-transit-immutable-js",
   "version": "0.8.0",
   "description": "Transit serialisation for Immutable.js",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/glenjamin/transit-immutable-js.git"
+    "url": "https://github.com/Xcraft-Inc/transit-immutable-js.git"
   },
   "author": "Glen Mailer <glen@stainlessed.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/glenjamin/transit-immutable-js/issues"
+    "url": "https://github.com/Xcraft-Inc/transit-immutable-js/issues"
   },
-  "homepage": "https://github.com/glenjamin/transit-immutable-js",
+  "homepage": "https://github.com/Xcraft-Inc/transit-immutable-js",
   "peerDependencies": {
     "immutable": "*",
     "transit-js": "*"
